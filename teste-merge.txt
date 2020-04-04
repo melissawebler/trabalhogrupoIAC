@@ -1,0 +1,5 @@
+para treinar:git e github
+praticando em equipe,
+criando uma branch,
+criando uma 2ª branch
+testando o merge
